@@ -1,0 +1,132 @@
+body {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  font-size: 1.4rem;
+  width: 35%;
+  margin: 0 auto;
+  display: block;
+}
+
+.section-1 {
+  background-color: #eaf6f6;
+  text-align: center;
+}
+
+.cloud-1 {
+  position: relative;
+  left: 27rem;
+  top: 13rem;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 31rem;
+  bottom: 33rem;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.4rem;
+  font-family: "Splash", cursive;
+  margin: 250px 0 6px 0;
+  letter-spacing: 10px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.6rem;
+  font-family: "Roboto", sans-serif;
+  margin: 7rem 4rem;
+}
+
+h3 {
+  color: #66bfbf;
+  font-size: 1.6rem;
+  /* margin-top: 7rem; */
+}
+
+.section-2 {
+  text-align: center;
+}
+
+.computer-picture{
+    border-radius: 100%;
+    /* float: left; */
+    width: 13%;    
+    position: relative;
+    bottom: 10rem;
+    left: 33rem;
+}
+
+.chillies{
+    border-radius: 100%;
+    /* float: right; */
+    width: 13%;    
+    position: relative;
+    bottom: 10rem;
+    right: 33rem;
+}
+
+hr {
+  width: 4%;
+  border-top: 9px dotted #eaf6f6;
+  border-bottom: 0;
+  margin: 8rem auto;
+}
+
+.profile-picture {
+  margin-top: 8.2rem;
+  margin-bottom: 3rem;
+}
+
+.div-2{
+    height: 9.6rem;
+}
+
+.btn-1{
+    color:white;
+    text-align: center;
+    font-size: 1.3rem;
+    height: 4rem;
+    /* padding: 3px; */
+    width: 6rem;
+    background-color: #66bfbf;
+    border: none;
+    margin-top: 90px;
+    border-radius: 12%;
+}
+
+.btn-1:hover{
+    background-color: black;
+    color: red;
+    transition: .3s;
+}
+
+.section-3{
+    text-align: center;
+    margin-top: 20px;
+    background-color: #66bfbf;
+    /* height: 14rem; */
+    padding: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: wheat;
+    font-size: 1.4rem;
+    margin: 5px;
+}
+
+a:hover{
+    /* background-color: black; */
+    color: black;
+    transition: .3s;
+}
+
+.links{
+    margin: 10px;
+}
